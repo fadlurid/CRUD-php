@@ -1,2 +1,2 @@
 # CRUD-php
-Intro Databasae and CRUD php  
+Intro Database and CRUD php  
